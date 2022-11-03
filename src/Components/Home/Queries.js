@@ -53,7 +53,7 @@ const Queries = () => {
                 <div className='col-md-6 w-full'>
                 <Lottie 
 	    options={defaultOptions}
-        height={400}
+        height={500}
        
       />
                 </div>

@@ -1,0 +1,38 @@
+[
+    {
+      "_id": "635e2e6e960812ea4dcd4a1d",
+      "picture": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2020/09/27/sajek_valley_d.jpg?itok=N7xct3Kk&timestamp=1601191090",
+      "name": "Sajek valley is known for its natural environment and is surrounded by mountains, dense forest, and grassland hill tracks. Many small rivers flow through the mountains among which the Kachalong and the Machalong are notable. On the way to Sajek valley, one has to cross the Mayni range and the Mayni river.",
+      "company": "SAJEK"
+    },
+    {
+      "_id": "635e2e6e06027d55dd9d4dac",
+      "picture": "https://blog.flyticket.com.bd/wp-content/uploads/2020/05/image003.jpg",
+      "name": "Among the eye-catching places, the most remote and least populated Bandarban is a popular destination for its adventurous, distinctive and scenic landscape. The beauty of its forests, numerous waterfalls, tallest peaks and lifestyles of 15 different ethnic groups attract tourists from both home and abroad.",
+      "company": "BANDARBAN"
+    },
+    {
+      "_id": "635e2e6e732836c7c091e948",
+      "picture": "https://thesimpletravel.com/wp-content/uploads/2022/02/Somapura-Mahavihara.jpg",
+      "name": "Connected by road and rail with Dhaka and Chittagong, Comilla has been a centre for the collection of hides and skins; it also has jute and cotton mills as well as a thermal power station. The main cottage industries are cane and bamboo basketry, pottery, woodworking, and cotton weaving",
+      "company": "CUMILLA"
+    },
+    {
+      "_id": "635e2e6e984f4b2ffb717516",
+      "picture": "https://static.javatpoint.com/tourist-places/images/tourist-places-in-bangladesh20.jpg",
+      "name": "Sylhet is the holy mystical city & experiences waterways. Ratargul Swamp Forest is the only swamp forest in Bangladesh that is situated in Sylhet. The trees are submerged in the water. The best time to visit this thrilling place is during the rainy season.",
+      "company": "SYLHET"
+    },
+    {
+      "_id": "635e2e6e52ea9d59b3cd337a",
+      "picture": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/16/b2/fe/ahsan-monjil.jpg?w=500&h=400&s=1",
+      "name": "Old Dhaka is the most beautiful part of the city. It's home to countless heritage gems including the Mughal-era Lalbagh Fort, the 12th-century Hindu temple Dhakeshwari Mandir, and the pretty pink Ahsan Manzil Museum",
+      "company": "DHAKA"
+    },
+    {
+      "_id": "635e2e6e17d751fd277b69e7",
+      "picture": "https://blog.flyticket.com.bd/wp-content/uploads/2020/05/image001.jpg",
+      "name": "It is the largest Tiger Reserve and National Park. Apart from being a unique largest mangrove eco-system of the world, the Sundarbans has the world's largest deltaic mangrove forests and is also home to one of India's most iconic wildlife species - the Royal Bengal Tiger",
+      "company": "SUNDARBAN"
+    }
+  ]
